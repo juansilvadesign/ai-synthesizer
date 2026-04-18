@@ -34,3 +34,6 @@
 [submodule "knowledge/skills/ui-ux-pro-max"]
 	path = knowledge/skills/ui-ux-pro-max
 	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+[submodule "knowledge/skills/design-system"]
+	path = knowledge/skills/design-system
+	url = https://github.com/albertzhangz10/design-system-skill.git
