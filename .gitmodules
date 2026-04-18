@@ -1,0 +1,36 @@
+[submodule "knowledge/skills/humanizer"]
+	path = knowledge/skills/humanizer
+	url = https://github.com/blader/humanizer.git
+[submodule "knowledge/skills/claudeception"]
+	path = knowledge/skills/claudeception
+	url = https://github.com/blader/Claudeception.git
+[submodule "knowledge/skills/taskmaster"]
+	path = knowledge/skills/taskmaster
+	url = https://github.com/blader/taskmaster.git
+[submodule "knowledge/skills/schematic"]
+	path = knowledge/skills/schematic
+	url = https://github.com/blader/schematic.git
+[submodule "knowledge/skills/theorist"]
+	path = knowledge/skills/theorist
+	url = https://github.com/blader/theorist.git
+[submodule "knowledge/skills/razor"]
+	path = knowledge/skills/razor
+	url = https://github.com/blader/razor.git
+[submodule "knowledge/skills/clean-pr"]
+	path = knowledge/skills/clean-pr
+	url = https://github.com/blader/clean-pr.git
+[submodule "knowledge/skills/cto-review"]
+	path = knowledge/skills/cto-review
+	url = https://github.com/blader/cto-review.git
+[submodule "knowledge/skills/scientific-agent-skills"]
+	path = knowledge/skills/scientific-agent-skills
+	url = https://github.com/K-Dense-AI/scientific-agent-skills.git
+[submodule "knowledge/skills/scientific-writer"]
+	path = knowledge/skills/scientific-writer
+	url = https://github.com/K-Dense-AI/claude-scientific-writer.git
+[submodule "knowledge/skills/anthropic"]
+	path = knowledge/skills/anthropic
+	url = https://github.com/anthropics/skills.git
+[submodule "knowledge/skills/ui-ux-pro-max"]
+	path = knowledge/skills/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
