@@ -37,3 +37,6 @@
 [submodule "knowledge/skills/design-system"]
 	path = knowledge/skills/design-system
 	url = https://github.com/albertzhangz10/design-system-skill.git
+[submodule "workspace/psiativa/skills/gerar-contrato"]
+	path = workspace/psiativa/skills/gerar-contrato
+	url = https://github.com/locuz-com-br/psiativa-contrato.git
