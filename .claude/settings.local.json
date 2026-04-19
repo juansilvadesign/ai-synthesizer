@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command 'Get-Content -Path \\(Get-ChildItem '\\\\''c:\\\\edX\\\\Notes\\\\ai-synthesizer\\\\knowledge\\\\sources\\\\oultimomentor\\\\'\\\\'' | Where-Object { $_.Name -like '\\\\''Aposente*'\\\\'' }\\).FullName -Raw')"
+    ]
+  }
+}
