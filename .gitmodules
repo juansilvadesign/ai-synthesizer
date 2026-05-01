@@ -40,3 +40,12 @@
 [submodule "workspace/psiativa/skills/gerar-contrato"]
 	path = workspace/psiativa/skills/gerar-contrato
 	url = https://github.com/locuz-com-br/psiativa-contrato.git
+[submodule "knowledge/skills/caveman"]
+	path = knowledge/skills/caveman
+	url = https://github.com/juliusbrussee/caveman
+[submodule "knowledge/skills/hyperframes"]
+	path = knowledge/skills/hyperframes
+	url = https://github.com/heygen-com/hyperframes
+[submodule "knowledge/skills/vercel-skills"]
+	path = knowledge/skills/vercel-skills
+	url = https://github.com/vercel-labs/skills/
