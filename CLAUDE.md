@@ -15,11 +15,13 @@ Two layers operate independently but feed each other:
 
 1. This file (`CLAUDE.md`) — who and what.
 2. [`CONTEXT.md`](CONTEXT.md) — routing: where does the user's request belong?
-3. The `CONTEXT.md` of the relevant business or stage folder (Layer 2).
+3. The `CLAUDE.md` and/or `CONTEXT.md` of the relevant business or stage folder (Layer 2).
 4. Only the references that stage actually needs (Layer 3).
 5. The working artifact you are editing or producing (Layer 4).
 
 Do **not** preload the entire workspace. Load lean, load late.
+
+> **For project-specific logic, refer to the `CLAUDE.md` located within the individual project directories.** This root file holds only global identity and conventions. Tone, ICP, positioning, client conventions, and stage rules live inside each project folder (e.g. [`workspace/locuz/CLAUDE.md`](workspace/locuz/CLAUDE.md), [`workspace/psiativa/CLAUDE.md`](workspace/psiativa/CLAUDE.md), [`knowledge/CLAUDE.md`](knowledge/CLAUDE.md)). Do not duplicate that material here.
 
 ## How to behave
 

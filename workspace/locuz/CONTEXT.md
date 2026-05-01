@@ -1,6 +1,6 @@
 # Locuz — Workspace Contract (Layer 2)
 
-> **About this business:** _<one or two lines: what locuz does, who it serves, what kind of work runs through here>_
+> **About this business:** Locuz is a growth consultancy that helps companies reach the next level by turning digital presence into measurable, scalable results — through technology and digital strategy. It's the parent ecosystem; [`psiativa/`](../psiativa/) is a vertical branch of it (psychology-clinic GTM).
 
 ## Shape
 

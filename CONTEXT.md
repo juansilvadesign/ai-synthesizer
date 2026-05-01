@@ -30,10 +30,10 @@ If two routes apply, ask. Don't silently choose.
 
 ## Active businesses
 
-- **`locuz/`** — see [`workspace/locuz/CONTEXT.md`](workspace/locuz/CONTEXT.md) when present.
-- **`psiativa/`** — see [`workspace/psiativa/CONTEXT.md`](workspace/psiativa/CONTEXT.md) when present.
+- **`locuz/`** — growth consultancy (parent ecosystem). See [`workspace/locuz/CLAUDE.md`](workspace/locuz/CLAUDE.md) and [`workspace/locuz/CONTEXT.md`](workspace/locuz/CONTEXT.md).
+- **`psiativa/`** — psychology-clinic GTM consultancy; **vertical branch of locuz**. See [`workspace/psiativa/CLAUDE.md`](workspace/psiativa/CLAUDE.md) and [`workspace/psiativa/CONTEXT.md`](workspace/psiativa/CONTEXT.md).
 
-Each business has the same shape: `_config/` (factory), `clients/`, `projects/`, `skills/`.
+Each business has the same shape: `_config/` (factory), `clients/`, `projects/`, `skills/`. When work in `psiativa/` reuses a Locuz playbook, override locally — don't mutate the locuz factory.
 
 ## Shared skills
 

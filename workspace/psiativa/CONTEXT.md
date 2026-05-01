@@ -1,6 +1,6 @@
 # Psiativa — Workspace Contract (Layer 2)
 
-> **About this business:** _<one or two lines: what psiativa does, who it serves, what kind of work runs through here>_
+> **About this business:** PsiAtiva is a consultancy that helps psychology clinics and private practices build predictable schedules, fewer no-shows, and a structured (non-salesy) patient acquisition process that preserves clinical identity — moving owners off referral dependency through Google, WhatsApp, and digital presence with ethics and measurable results. It is a vertical branch of the [`locuz/`](../locuz/) ecosystem, applying Locuz's growth playbook to the psychology niche.
 
 ## Shape
 
