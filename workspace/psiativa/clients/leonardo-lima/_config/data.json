@@ -1,0 +1,31 @@
+{
+  "_protocolo": "P7K",
+  "_icp": "autonomo",
+
+  "NOME DO CLIENTE / CLÍNICA": "Dr. Leonardo Lima",
+  "CPF OU CNPJ": "000.000.000-00",
+  "ENDEREÇO COMPLETO": "R. dos Ilhéus, 118 - Centro, Florianópolis/SC - CEP 88010-520",
+  "EMAIL": "leonardolimaemail@gmail.com",
+  "TELEFONE": "(48) 98422-1231",
+  "NOME DO RESPONSÁVEL": "Dr. Leonardo Lima",
+  "CARGO / CRP": "Psicólogo Clínico · CRP 00/00000",
+
+  "DIA": "20",
+  "MÊS": "abril",
+  "ANO": "2026",
+  "DATA DE INÍCIO": "20/04/2026",
+  "DATA DE ENCERRAMENTO": "20/10/2026",
+
+  "META CALIBRADA": "R$ 12.000",
+
+  "PREENCHER": "Pix à vista — R$ 6.980",
+
+  "Campo livre para condições específicas acordadas entre as partes": "Cláusula 10ª — A garantia de devolução integral caso a gente não chegue aos 5 novos pacientes ativos, o critério de contabilização e a proteção para casos de abandono por iniciativa do paciente.",
+
+  "_NOTAS": {
+    "sobre _protocolo": "P10K | P7K | P3K | PLANO45D | GBPSCALE | GBP | SITELP | IASOLO",
+    "sobre _icp": "autonomo | clinica",
+    "sobre PREENCHER": "Para contratos Clínica com múltiplos campos [PREENCHER], use uma lista: ['Pix à vista', '4 profissionais', 'Adulto e infantil']",
+    "campos exclusivos clinica": "Adicione 'NOME DO RESPONSÁVEL' com o nome do gestor/diretor e 'CARGO / CRP' com o cargo/CRP. Para PREENCHER múltiplo, use lista."
+  }
+}

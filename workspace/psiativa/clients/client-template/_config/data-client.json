@@ -1,0 +1,31 @@
+{
+  "_protocolo": "P7K",
+  "_icp": "autonomo",
+
+  "NOME DO CLIENTE / CLÍNICA": "Dra. Ana Paula Ferreira",
+  "CPF OU CNPJ": "123.456.789-00",
+  "ENDEREÇO COMPLETO": "Rua das Laranjeiras, 45 - Laranjeiras, Rio de Janeiro/RJ - CEP 22240-000",
+  "EMAIL": "ana.ferreira@psicologia.com",
+  "TELEFONE": "(21) 99123-4567",
+  "NOME DO RESPONSÁVEL": "Dra. Ana Paula Ferreira",
+  "CARGO / CRP": "Psicóloga Clínica · CRP 05/98765",
+
+  "DIA": "15",
+  "MÊS": "maio",
+  "ANO": "2026",
+  "DATA DE INÍCIO": "15/05/2026",
+  "DATA DE ENCERRAMENTO": "15/11/2026",
+
+  "META CALIBRADA": "R$ 4.000",
+
+  "PREENCHER": "Pix à vista — R$ 6.980",
+
+  "Campo livre para condições específicas acordadas entre as partes": "Cliente indicada por parceiro PsiAtiva. Sessões de otimização realizadas toda primeira quinta-feira do mês.",
+
+  "_NOTAS": {
+    "sobre _protocolo": "P10K | P7K | P3K | PLANO45D | GBPSCALE | GBP | SITELP | IASOLO",
+    "sobre _icp": "autonomo | clinica",
+    "sobre PREENCHER": "Para contratos Clínica com múltiplos campos [PREENCHER], use uma lista: ['Pix à vista', '4 profissionais', 'Adulto e infantil']",
+    "campos exclusivos clinica": "Adicione 'NOME DO RESPONSÁVEL' com o nome do gestor/diretor e 'CARGO / CRP' com o cargo/CRP. Para PREENCHER múltiplo, use lista."
+  }
+}

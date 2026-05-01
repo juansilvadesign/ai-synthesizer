@@ -1,0 +1,29 @@
+{
+  "_protocolo": "P7K",
+  "_icp": "clinica",
+
+  "NOME DO CLIENTE / CLÍNICA": "Clínica Mente Ativa Psicologia",
+  "CPF OU CNPJ": "12.345.678/0001-99",
+  "ENDEREÇO COMPLETO": "Av. Nossa Senhora de Copacabana, 800 - Sala 304 - Copacabana, Rio de Janeiro/RJ - CEP 22050-001",
+  "EMAIL": "contato@menteativa.com.br",
+  "TELEFONE": "(21) 3123-4567",
+  "NOME DO RESPONSÁVEL": "Dra. Carla Mendes",
+  "CARGO / CRP": "Diretora Clínica · CRP 05/55432",
+
+  "DIA": "01",
+  "MÊS": "junho",
+  "ANO": "2026",
+  "DATA DE INÍCIO": "01/06/2026",
+  "DATA DE ENCERRAMENTO": "01/12/2026",
+
+  "META CALIBRADA": "R$ 12.000",
+
+  "PREENCHER": ["Pix à vista — R$ 14.800", "6 profissionais"],
+
+  "Campo livre para condições específicas acordadas entre as partes": "Clínica com 6 profissionais (2 psicólogas infantis, 3 adulto, 1 casais). Recepcionista: Juliana. Sessões de otimização toda segunda terça-feira do mês.",
+
+  "_NOTAS": {
+    "sobre PREENCHER como lista": "Quando há múltiplos campos [PREENCHER] no contrato Clínica (ex: forma de pagamento + número de profissionais), forneça uma lista ordenada. A substituição acontece na ordem de aparição no template.",
+    "campos Clínica extras": "Lembre de preencher NOME DO RESPONSÁVEL e CARGO / CRP com dados do gestor/diretor da clínica."
+  }
+}
